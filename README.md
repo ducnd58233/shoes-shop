@@ -11,3 +11,9 @@ npm install
         - Create `.env` file
         - Copy `.env.schema` information to `.env`
         - Run command: `npm start`
+
+```dotnetcli
+Paypal:
+sb-ei247c16408831@personal.example.com
+TmV9'/!1
+```
